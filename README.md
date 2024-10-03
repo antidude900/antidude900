@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sambal Shrestha:
-A tech nerd wandering in the realm of tech<br>Studying BEI (Bachelor in Electronics, Communication and Information Engineering) at Advanced College of Engineering and Management<br>Currently learning AI/ML and mastering Full Stack Web Development<br>Actively contributing in open source and making own projects too
+👨‍💻A tech nerd wandering in the realm of tech<br>📙Studying BEI (Bachelor in Electronics, Communication and Information Engineering) at Advanced College of Engineering and Management<br>💡Currently learning AI/ML and mastering Full Stack Web Development<br>🚀Actively contributing in open source and making own projects too
 
 
 ## 🌐 Socials:
