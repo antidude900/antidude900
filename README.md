@@ -3,7 +3,7 @@
 📙Studying [BEI](https://doece.pcampus.edu.np/index.php/bachelor-in-electronics-and-communication-engineering/) at [ACEM](https://acem.edu.np/), Nepal<br>
 💡Currently learning AI/ML and mastering Full Stack Web Development<br>
 🚀Actively contributing in open source and making own projects too<br>
-📫How to reach me **splashofwater900@gmail.com**
+📫Contact Me: **splashofwater900@gmail.com**
 
 
 ## 🌐 Socials:
