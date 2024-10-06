@@ -3,8 +3,7 @@
 👨‍💻A tech nerd wandering in the realm of tech<br>
 📙Studying [BEI](https://doece.pcampus.edu.np/index.php/bachelor-in-electronics-and-communication-engineering/) at [ACEM](https://acem.edu.np/), Nepal<br>
 💡Currently learning AI/ML and mastering Full Stack Web Development<br>
-🚀Actively contributing in open source and making own projects too
-
+🚀Making own projects for now(Also thinking of making blogs)
 
 ## 🌐 Socials:
 
