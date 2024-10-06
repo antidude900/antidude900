@@ -1,4 +1,4 @@
-# Hi👋, I'm Sambal Shrestha:
+# Hi👋, I'm Sambal Shrestha
 
 👨‍💻A tech nerd wandering in the realm of tech<br>
 📙Studying [BEI](https://doece.pcampus.edu.np/index.php/bachelor-in-electronics-and-communication-engineering/) at [ACEM](https://acem.edu.np/), Nepal<br>
