@@ -36,7 +36,7 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=antidude900&theme=github-dark)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=antidude900&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
