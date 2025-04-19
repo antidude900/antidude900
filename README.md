@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com?user=antidude900&theme=github-dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 # 🏷️ Featured:
