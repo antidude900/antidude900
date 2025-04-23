@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=antidude900&theme=github-dark)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&size_weight=0.5&count_weight=0.5&layout=donut&theme=github_dark&hide_border=true&hide=css&langs_count=4&exclude_repo=pytorch_learning,antidude900.github.io)
 
 
 # 🏷️ Featured:
