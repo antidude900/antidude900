@@ -38,17 +38,14 @@
 # 🏷️ Featured:
 
 <p align="center">
-<a href="https://github.com/antidude900/ProjectEuler">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antidude900&repo=ProjectEuler&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
 <a href="https://github.com/antidude900/3-Men-Morris">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antidude900&repo=3-Men-Morris&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-</p>
-<p align="center">
+<span>&nbsp;</span>
 <a href="https://github.com/antidude900/Online-Collaborative-Code-Editor">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antidude900&repo=Online-Collaborative-Code-Editor&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
+</p>
+
 
 
