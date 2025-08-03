@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antidude900&theme=tokyonight&show_icons=true&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antidude900&theme=tokyonight&show_icons=true&hide_border=true&hide=commits" width="400" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antidude900&size_weight=0.85&count_weight=0&layout=compact&theme=github_dark&hide_border=true&langs_count=4" />
 </p>
